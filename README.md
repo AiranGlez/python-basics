@@ -3,8 +3,6 @@
 > **Breve descripción:** Explica en una o dos líneas el propósito del proyecto y sus principales características.
 
 ---
-## 🌍 Idioma: Español
-Para la versión en inglés, haz clic [aquí](README.en.md).
 
 ## 🗂️ Tabla de Contenidos
 1. [Descripción](#descripción)
