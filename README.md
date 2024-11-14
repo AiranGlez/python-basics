@@ -1,11 +1,11 @@
-# 📌 Nombre del Proyecto
+# 📌 Python Basics
 
-> **Breve descripción:** Explica en una o dos líneas el propósito del proyecto y sus principales características.
+> **Project description:** Learn and practice Python basics.
 
 ---
 
 ## 🗂️ Tabla de Contenidos
-1. [Descripción](#descripción)
+1. [Description](#description)
 2. [Instalación](#instalación)
 3. [Uso](#uso)
 4. [Estructura del Proyecto](#estructura-del-proyecto)
@@ -16,13 +16,17 @@
 
 ---
 
-## 📝 Descripción
+## 📝 Description
 
-Agrega aquí una descripción más detallada del proyecto. Explica:
-- El problema que resuelve o el objetivo que persigue.
-- Tecnologías principales utilizadas (Python, DevOps, etc.)
-- Principales funcionalidades y casos de uso.
-
+Contents:
+- Basic syntax.
+- Variables and Data Types
+- Conditionals
+- Loops
+- Type casting
+- Exceptions
+- Functions and builtin functions
+- Lists, tuples, sets and dictionaries
 ---
 
 ## ⚙️ Instalación
