@@ -4,21 +4,17 @@
 
 ---
 
-## 🗂️ Tabla de Contenidos
+## 🗂️ Index
+
 1. [Description](#description)
-2. [Instalación](#instalación)
-3. [Uso](#uso)
-4. [Estructura del Proyecto](#estructura-del-proyecto)
-5. [Configuración](#configuración)
-6. [Testing](#testing)
-7. [Contribución](#contribución)
-8. [Licencia](#licencia)
+2. [Installation](#installation)
+3. [Content](#content)
+4. [License](#license)
 
 ---
 
 ## 📝 Description
 
-Contents:
 - Basic syntax.
 - Variables and Data Types
 - Conditionals
@@ -29,76 +25,34 @@ Contents:
 - Lists, tuples, sets and dictionaries
 ---
 
-## ⚙️ Instalación
+## ⚙️ Installation
 
-Sigue estos pasos para configurar el entorno del proyecto:
-
-1. Clona el repositorio:
+1. Clone the repository:
    ```bash
-   git clone https://github.com/tuusuario/tu_proyecto.git
-   cd tu_proyecto
-2. Crea y activa un entorno virtual:
+   git clone https://github.com/AiranGlez/python-basics
+   cd app_name
+2. Execute python main file:
    ```bash
-   python -m venv venv
-   source venv/bin/activate    # o `venv\Scripts\activate` en Windows
-3. Instala las dependencias:
-   ```bash
-   pip install -r requirements.txt
-
+   python src/main.py
 ---
 
-## 🚀 Uso
+## 🚀 Content
 
 Ejemplo para ejecutar el proyecto o sus módulos principales:
 
 ---
 
-## 📁 Estructura del Proyecto
+## 📄 License
 
-tu_proyecto/
-├── src/                     # Código fuente principal
-│   ├── __init__.py
-│   ├── main.py              # Archivo de entrada principal
-│   └── module/              # Módulos adicionales
-│       └── __init__.py
-├── tests/                   # Pruebas unitarias y de integración
-│   ├── __init__.py
-│   └── test_main.py
-├── config/                  # Archivos de configuración
-│   └── settings.yml
-├── scripts/                 # Scripts adicionales y tareas DevOps
-├── Dockerfile               # Configuración de Docker (opcional)
-├── docker-compose.yml       # Configuración de Docker Compose (opcional)
-├── requirements.txt         # Dependencias del proyecto
-├── .gitignore               # Archivos ignorados por git
-└── README.md                # Documentación del proyecto
+This project is under the MIT License. This means you are free to use, modify, and distribute the code, as long as you include a copy of the license in any distribution or modification of the code.
 
----
+### Terms:
 
-## 🔧 Configuración
+Permission is granted to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the software.
+The code is provided "as is," without any warranty of any kind, express or implied, including but not limited to warranties of merchantability or fitness for a particular purpose.
 
-* Variables de entorno: Indica cómo configurar variables de entorno esenciales.
-* Archivos de configuración: Explica el propósito del archivo settings.yml en el directorio config.
+### Purpose:
 
----
+This code is provided for educational and training purposes. You may use it to learn, modify, and share it, but it should not be used for commercial purposes without additional authorization.
 
-## ✅ Testing
-
-1. Ejecuta las pruebas para validar la funcionalidad del proyecto:
-   ```bash
-   pytest tests/
-
----
-
-## 📄 Licencia
-
-Este proyecto está bajo la **Licencia MIT**. Esto significa que puedes usar, modificar y distribuir el código de manera gratuita, siempre que incluyas una copia de la licencia en cualquier distribución o modificación del código. 
-
-### Condiciones:
-- Se concede permiso para utilizar, copiar, modificar, fusionar, publicar, distribuir, sublicenciar y/o vender copias del software.
-- El código se proporciona "tal cual", sin ninguna garantía de ningún tipo, expresa o implícita, incluyendo pero no limitándose a las garantías de comercialización o idoneidad para un propósito particular.
-
-### Propósito:
-Este código es proporcionado con fines educativos y formativos. Puedes usarlo para aprender, modificarlo y compartirlo, pero no debe ser utilizado con fines comerciales sin la debida autorización adicional.
-
-Para más información, consulta el archivo [LICENSE](LICENSE) para los detalles completos de la Licencia MIT.
+For more information, refer to the LICENSE file for the full details of the MIT License.
