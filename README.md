@@ -137,6 +137,48 @@ Summary of basic fundamental concepts:
       print("Run this code if this is the main app")
    ```
 
+   2.1. **Built-in modules**
+
+      1. **`math`**
+         - **Description**: Provides standard mathematical functions, such as trigonometric and logarithmic operations.
+         - **Usage**: `import math`
+
+      2. **`sys`**
+         - **Description**: Provides access to system-specific parameters and functions.
+         - **Usage**: `import sys`
+
+      3. **`os`**
+         - **Description**: Allows interaction with the operating system, including file and directory manipulation.
+         - **Usage**: `import os`
+
+      4. **`random`**
+         - **Description**: Implements pseudo-random number generators for various distributions.
+         - **Usage**: `import random`
+
+      5. **`json`**
+         - **Description**: Provides functions to work with JSON data, including parsing and serializing.
+         - **Usage**: `import json`
+
+      6. **`time`**
+         - **Description**: Provides time-related functions, such as sleeping and measuring time intervals.
+         - **Usage**: `import time`
+
+      7. **`datetime`**
+         - **Description**: Supplies classes for working with dates and times.
+         - **Usage**: `import datetime`
+
+      8. **`itertools`**
+         - **Description**: Provides functions for creating iterators for efficient looping.
+         - **Usage**: `import itertools`
+
+      9. **`collections`**
+         - **Description**: Implements specialized container datatypes like named tuples and defaultdicts.
+         - **Usage**: `import collections`
+
+      10. **`re`**
+         - **Description**: Provides support for working with regular expressions.
+         - **Usage**: `import re`
+
 3. **Lambda**
 
    - Lambda or anonymous functions does not require a name and are defined in one line. Lambda functions are used for simple tasks that are executed once.
